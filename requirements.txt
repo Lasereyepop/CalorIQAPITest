@@ -1,0 +1,3 @@
+python-dotenv
+typing_extensions
+anthropic
