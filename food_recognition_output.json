@@ -1,0 +1,51 @@
+{
+  "foods": [
+    {
+      "name": "Grilled Meat Skewers",
+      "type": "Meat",
+      "portion": "100g",
+      "ingredients": [
+        "meat",
+        "grilled",
+        "skewers"
+      ]
+    },
+    {
+      "name": "Lentil Pilaf",
+      "type": "Grains",
+      "portion": "100g",
+      "ingredients": [
+        "pilaf",
+        "lentil"
+      ]
+    },
+    {
+      "name": "Roasted Sweet Potatoes",
+      "type": "Vegetables",
+      "portion": "100g",
+      "ingredients": [
+        "sweet",
+        "potatoes",
+        "roasted"
+      ]
+    },
+    {
+      "name": "Stuffed Peppers",
+      "type": "Vegetables",
+      "portion": "100g",
+      "ingredients": [
+        "stuffed",
+        "peppers"
+      ]
+    },
+    {
+      "name": "Pickled Onions",
+      "type": "Vegetables",
+      "portion": "50g",
+      "ingredients": [
+        "onions",
+        "pickled"
+      ]
+    }
+  ]
+}
